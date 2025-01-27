@@ -7,7 +7,7 @@ import project5 from "../assets/projects/project-5.jpg";
 export const HERO_CONTENT = `"Aspiring Full-Stack Developer | Data Science Enthusiast | Innovating with Code"
 I’m passionate about creating impactful web applications and AI-driven solutions. As a CSE graduate with hands-on projects like a LinkedIn clone, SaaS landing page, and Bhagavad Gita GPT, I bring curiosity and dedication to every line of code.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `Hi there! I’m a Computer Science and Engineering graduate with a keen interest in full-stack development and data science. I’ve built projects ranging from a LinkedIn clone and SaaS landing page to AI-powered tools like Bhagavad Gita GPT and MLXpress. My journey into technology is driven by a passion for solving problems and crafting user-centric experiences. I’m constantly learning and improving my skills in the MERN stack, machine learning, and responsive design. Currently seeking opportunities to contribute to impactful projects and grow as a developer..`;
 
 export const EXPERIENCES = [
   {
