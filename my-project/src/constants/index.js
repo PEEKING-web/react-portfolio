@@ -45,42 +45,42 @@ export const PROJECTS = [
     title: "LinkedIn Clone",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "A full-stack web application replicating LinkedIn’s core functionalities, including user authentication, profile creation, and post sharing, built using the MERN stack.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
     title: "SAAS Landing page",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "A sleek and responsive landing page showcasing SaaS features, designed to attract users and convert leads, built with React and Tailwind CSS.",
+    technologies: [ "React"],
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "A modern and interactive portfolio built using React, highlighting projects, skills, and achievements, with a clean and professional design.",
+    technologies: ["HTML", "CSS", "React"],
   },
   {
     title: "Bhagvatgita GPT",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "An AI-powered tool trained on the Bhagavad Gita, enabling users to ask questions and receive insightful responses, built with a custom CSV-trained chatbot.",
+    technologies: ["Python", "CSS", "Vue.js", "Express", "mySQL"],
   },
   {
     title: "MLxpress",
     image: project5,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "A Python library simplifying machine learning workflows, offering streamlined functionality for data preprocessing, model training, and evaluation.",
     technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
   },
   {
     title: "Focus Buddy",
     image: project5,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "A Chrome extension designed to improve productivity by minimizing distractions, allowing users to stay focused on their goals.",
     technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
   },
 ];
